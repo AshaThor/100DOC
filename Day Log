@@ -2,3 +2,7 @@ Day 1
 - Rpg Bot work 
 Day 2
 - Reading about lambdas and Discord Jda
+Day 3
+- Looking into Embedded Builders and updating them, finally found it and added it to the source code as a comment.
+https://www.programcreek.com/java-api-examples/?code=jagrosh/GiveawayBot/GiveawayBot-master/src/main/java/com/jagrosh/giveawaybot/entities/Giveaway.java
+that should be my silver bullet

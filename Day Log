@@ -1,5 +1,5 @@
 Day 1
-- Rpg Bot work 
+- Rpg Bot work
 Day 2
 - Reading about lambdas and Discord Jda
 Day 3
@@ -8,3 +8,8 @@ https://www.programcreek.com/java-api-examples/?code=jagrosh/GiveawayBot/Giveawa
 that should be my silver bullet
 Day 4
 - Embeded Builder progress! Updates the message. Stole code from stack
+Day 5
+- Reading the book again,
+you can make java calculate strictly using 64bit is you use strictfp (Strict Floating point) this is so that no matter what VM your on it will always produce the same accuracy
+that also means it will give the save value. This is only really applicable in high precision floating point number calculations. if you need that level of accuracy use strict fp
+This book is also quite funnny at times "If your eyes glazed over when reading this note"
